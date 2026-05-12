@@ -1,4 +1,4 @@
-**Capital Shop**
+#Capital Shop
 Capital Shop is a modern fashion e-commerce website built using HTML5 and CSS3. It focuses on creating a visually engaging shopping experience with a multi-section layout, smooth animations, and interactive UI components inspired by real-world online stores.
   
 🛍️ Product Showcase  
